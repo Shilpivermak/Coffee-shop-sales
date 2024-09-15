@@ -1,2 +1,2 @@
 # Coffee-shop-sales
-retail analysis of coffee shop sales using MS Excel
+Retail analysis of Coffee shop sales using MS Excel
